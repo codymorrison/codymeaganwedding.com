@@ -231,7 +231,7 @@ var $ = jQuery.noConflict();
            </li>
            <!--<li><a href="rsvp.html">RSVP</a>
          </li>-->
-         <li class="selected"><a href="contact.php">Contact</a>
+         <li class="selected"><a href="contact.php">Contact</a> 
          </li>
          <li><a onclick="jQuery('html, body').animate( { scrollTop: 0 }, 'slow' );" href="javascript:void(0);" class="gotop" title="Go on top">TOP</a> </li>
        </ul>
