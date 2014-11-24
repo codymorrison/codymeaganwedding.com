@@ -116,7 +116,7 @@ var $ = jQuery.noConflict();
 
     <div class="menu">
       <ul id="main_menu">
-        <li><a class="selected" href="index.html">Home</a>
+        <li><a class="selected" href="home.html">Home</a>
         </li>
         <li><a href="location.html">Wedding Location</a></li>
         <li><a href="amenities.html">Amenities</a>
@@ -136,7 +136,7 @@ var $ = jQuery.noConflict();
 
   <div id="header">
 
-     <div class="title"><a href="index.html">Cody &amp; Meagan</a></div>
+     <div class="title"><a href="home.html">Cody &amp; Meagan</a></div>
      <div class="description"><span class="swirl_left"><span class="swirl_right">September 12th, 2015</span></span></div>
 
   </div><!-- End of Header-->
@@ -223,7 +223,7 @@ var $ = jQuery.noConflict();
        </div>
        <div class="footer_menu">
          <ul>
-           <li><a href="index.html">Home</a>
+           <li><a href="home.html">Home</a>
            </li>
            <li><a href="location.html">Wedding Location</a>
            </li>
