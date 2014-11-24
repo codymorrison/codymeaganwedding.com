@@ -116,18 +116,11 @@ var $ = jQuery.noConflict();
 
     <div class="menu">
       <ul id="main_menu">
-        <li><a class="selected" href="home.html">Home</a>
-        </li>
-        <li><a href="location.html">Wedding Location</a></li>
-        <li><a href="amenities.html">Amenities</a>
-          <ul>
-            <li><a href="amenities.html#stay">Where to Stay</a></li>
-            <li><a href="amenities.html#do">What to Do</a></li>
-          </ul>
-        </li>
+        <li><a href="home.html">Home</a></li>
+        <li class="selected"><a href="location.html">Wedding Location</a></li>
+        <li><a href="amenities.html">Amenities</a></li>
         <!--<li><a href="rsvp.html">RSVP</a></li>-->
-        <li><a href="contact.php">Contact</a>
-        </li>
+        <li><a href="contact.php">Contact</a></li>
       </ul>
     </div>
 
@@ -231,7 +224,7 @@ var $ = jQuery.noConflict();
            </li>
            <!--<li><a href="rsvp.html">RSVP</a>
          </li>-->
-         <li class="selected"><a href="contact.php">Contact</a> 
+         <li class="selected"><a href="contact.php">Contact</a>
          </li>
          <li><a onclick="jQuery('html, body').animate( { scrollTop: 0 }, 'slow' );" href="javascript:void(0);" class="gotop" title="Go on top">TOP</a> </li>
        </ul>
