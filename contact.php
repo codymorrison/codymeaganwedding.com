@@ -211,8 +211,7 @@ var $ = jQuery.noConflict();
    <div class="footer">
        <div class="footer_content">
        <div class="footer_text">
-       Marriage | Premium Wedding Template by <a href="http://famousthemes.com">Famous Themes</a> <br />
-       Photos by <a href="http://antondemin.ru/" target="_blank">antondemin.ru</a>
+       
        </div>
        <div class="footer_menu">
          <ul>
